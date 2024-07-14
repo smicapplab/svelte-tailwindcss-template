@@ -6,7 +6,7 @@ This is my personal template for quickly bootstrapping Svelte projects with Tail
 
 - [Svelte](https://svelte.dev/)
 - [Tailwind CSS](https://tailwindcss.com/)
-- [Daisy UI](https://daisyui.com/)
+- [Supabase](https://supabase.com/)
 
 ## Features
 
